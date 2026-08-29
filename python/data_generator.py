@@ -424,10 +424,15 @@ def create_fact_returns(
         if np.random.random() < base_return_probability:
             return_date = pd.to_datetime(row["actual_delivery_date"]) + timedelta(days=random.randint(1, 20))
 
-            reason = np.random.choice(
-                return_reasons,
-                p=[0.22, 0.25 if row["delay_days"] > 0 else 0.10, 0.15, 0.18, 0.20]
-            )
+           if row["delay_days"] > 0:
+    reason_probabilities = [0.22, 0.25, 0.15, 0.18, 0.20]
+else:
+    reason_probabilities = [0.25, 0.10, 0.20, 0.20, 0.25]
+
+reason = np.random.choice(
+    return_reasons,
+    p=reason_probabilities
+)
 
             return_records.append({
                 "return_id": f"RET{return_id:06d}",
