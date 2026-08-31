@@ -1,0 +1,26 @@
+supplier_id,supplier_name,supplier_region,standard_lead_time_days,supplier_risk_score
+SUP001,Supplier 1,Northeast,14,4
+SUP002,Supplier 2,Northeast,9,7
+SUP003,Supplier 3,South,5,2
+SUP004,Supplier 4,Midwest,13,2
+SUP005,Supplier 5,Midwest,9,8
+SUP006,Supplier 6,Midwest,5,2
+SUP007,Supplier 7,Northeast,4,1
+SUP008,Supplier 8,Northeast,10,6
+SUP009,Supplier 9,West,14,1
+SUP010,Supplier 10,Northeast,15,3
+SUP011,Supplier 11,Northeast,16,6
+SUP012,Supplier 12,Northeast,13,1
+SUP013,Supplier 13,Midwest,14,6
+SUP014,Supplier 14,Midwest,14,1
+SUP015,Supplier 15,Northeast,6,4
+SUP016,Supplier 16,Midwest,7,4
+SUP017,Supplier 17,West,7,5
+SUP018,Supplier 18,Midwest,12,8
+SUP019,Supplier 19,West,9,2
+SUP020,Supplier 20,South,11,1
+SUP021,Supplier 21,Northeast,7,9
+SUP022,Supplier 22,Midwest,13,4
+SUP023,Supplier 23,West,6,2
+SUP024,Supplier 24,South,15,3
+SUP025,Supplier 25,South,10,2

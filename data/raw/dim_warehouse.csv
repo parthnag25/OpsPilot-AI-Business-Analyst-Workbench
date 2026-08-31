@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,region,state,capacity_units,labor_hours_available
+WH001,Chicago Fulfillment Center,Midwest,IL,86212,18757
+WH002,Dallas Distribution Hub,South,TX,97202,9060
+WH003,Atlanta Operations Center,South,GA,68711,11420
+WH004,Los Angeles Fulfillment Center,West,CA,146752,8301
+WH005,Seattle Distribution Hub,West,WA,95236,24990
+WH006,New Jersey Fulfillment Center,Northeast,NJ,116235,8190
+WH007,Boston Logistics Center,Northeast,MA,60492,10975
+WH008,Denver Operations Center,West,CO,56102,9816
+WH009,Columbus Distribution Hub,Midwest,OH,82745,8569
+WH010,Phoenix Fulfillment Center,West,AZ,101885,11863

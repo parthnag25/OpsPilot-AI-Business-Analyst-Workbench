@@ -1,0 +1,101 @@
+product_id,product_name,category,subcategory,unit_cost,unit_price,supplier_id
+PROD001,Kitchen Product 1,Home Goods,Kitchen,13.43,28.39,SUP025
+PROD002,Packaged Food Product 2,Grocery,Packaged Food,68.4,128.55,SUP003
+PROD003,Men Product 3,Apparel,Men,81.37,141.91,SUP012
+PROD004,Snacks Product 4,Grocery,Snacks,138.94,198.07,SUP009
+PROD005,Smart Devices Product 5,Electronics,Smart Devices,242.55,481.8,SUP015
+PROD006,Personal Care Product 6,Health & Personal Care,Personal Care,235.18,493.9,SUP013
+PROD007,Smart Devices Product 7,Electronics,Smart Devices,151.49,322.03,SUP010
+PROD008,Desk Accessories Product 8,Office Supplies,Desk Accessories,26.68,38.32,SUP012
+PROD009,Personal Care Product 9,Health & Personal Care,Personal Care,16.08,25.07,SUP023
+PROD010,Mobile Accessories Product 10,Electronics,Mobile Accessories,100.23,151.12,SUP022
+PROD011,Storage Product 11,Home Goods,Storage,208.04,330.56,SUP003
+PROD012,Kitchen Product 12,Home Goods,Kitchen,73.83,130.35,SUP013
+PROD013,Beverages Product 13,Grocery,Beverages,39.53,79.54,SUP021
+PROD014,Packaged Food Product 14,Grocery,Packaged Food,23.26,50.88,SUP012
+PROD015,Packaged Food Product 15,Grocery,Packaged Food,194.2,279.41,SUP022
+PROD016,Snacks Product 16,Grocery,Snacks,6.35,12.86,SUP022
+PROD017,Paper Product 17,Office Supplies,Paper,178.18,346.12,SUP020
+PROD018,Paper Product 18,Office Supplies,Paper,193.96,256.09,SUP018
+PROD019,Paper Product 19,Office Supplies,Paper,92.82,126.24,SUP006
+PROD020,Women Product 20,Apparel,Women,216.46,398.75,SUP009
+PROD021,Desk Accessories Product 21,Office Supplies,Desk Accessories,86.07,112.78,SUP018
+PROD022,Furniture Product 22,Home Goods,Furniture,81.19,126.57,SUP011
+PROD023,Mobile Accessories Product 23,Electronics,Mobile Accessories,183.75,340.98,SUP002
+PROD024,Beverages Product 24,Grocery,Beverages,222.37,377.72,SUP009
+PROD025,Mobile Accessories Product 25,Electronics,Mobile Accessories,34.3,66.12,SUP019
+PROD026,Writing Product 26,Office Supplies,Writing,191.39,341.29,SUP007
+PROD027,Writing Product 27,Office Supplies,Writing,193.89,333.32,SUP013
+PROD028,Writing Product 28,Office Supplies,Writing,133.07,220.39,SUP005
+PROD029,Packaged Food Product 29,Grocery,Packaged Food,11.23,15.19,SUP008
+PROD030,Desk Accessories Product 30,Office Supplies,Desk Accessories,12.7,23.55,SUP018
+PROD031,Snacks Product 31,Grocery,Snacks,82.02,142.15,SUP019
+PROD032,Footwear Product 32,Apparel,Footwear,227.35,338.03,SUP013
+PROD033,Packaged Food Product 33,Grocery,Packaged Food,105.54,207.68,SUP005
+PROD034,Wellness Product 34,Health & Personal Care,Wellness,61.06,80.79,SUP003
+PROD035,Mobile Accessories Product 35,Electronics,Mobile Accessories,75.99,106.63,SUP005
+PROD036,Paper Product 36,Office Supplies,Paper,232.78,469.68,SUP022
+PROD037,Footwear Product 37,Apparel,Footwear,160.18,332.84,SUP003
+PROD038,Women Product 38,Apparel,Women,201.9,288.16,SUP020
+PROD039,Footwear Product 39,Apparel,Footwear,223.68,394.21,SUP009
+PROD040,Personal Care Product 40,Health & Personal Care,Personal Care,202.82,426.18,SUP022
+PROD041,Paper Product 41,Office Supplies,Paper,82.91,112.31,SUP022
+PROD042,Wellness Product 42,Health & Personal Care,Wellness,60.84,100.74,SUP025
+PROD043,Writing Product 43,Office Supplies,Writing,205.41,424.73,SUP004
+PROD044,Beverages Product 44,Grocery,Beverages,6.7,11.63,SUP006
+PROD045,Men Product 45,Apparel,Men,107.27,156.72,SUP024
+PROD046,Writing Product 46,Office Supplies,Writing,34.37,53.99,SUP017
+PROD047,Furniture Product 47,Home Goods,Furniture,236.01,367.48,SUP004
+PROD048,Writing Product 48,Office Supplies,Writing,132.1,253.35,SUP021
+PROD049,Cleaning Product 49,Health & Personal Care,Cleaning,94.09,204.48,SUP007
+PROD050,Storage Product 50,Home Goods,Storage,240.8,358.6,SUP025
+PROD051,Furniture Product 51,Home Goods,Furniture,126.83,194.79,SUP025
+PROD052,Personal Care Product 52,Health & Personal Care,Personal Care,74.79,96.11,SUP020
+PROD053,Beverages Product 53,Grocery,Beverages,154.34,266.63,SUP001
+PROD054,Computer Accessories Product 54,Electronics,Computer Accessories,17.61,26.67,SUP010
+PROD055,Kitchen Product 55,Home Goods,Kitchen,227.53,336.19,SUP008
+PROD056,Personal Care Product 56,Health & Personal Care,Personal Care,40.5,69.46,SUP003
+PROD057,Writing Product 57,Office Supplies,Writing,246.48,364.78,SUP003
+PROD058,Personal Care Product 58,Health & Personal Care,Personal Care,169.67,334.85,SUP005
+PROD059,Writing Product 59,Office Supplies,Writing,63.22,122.76,SUP018
+PROD060,Storage Product 60,Home Goods,Storage,95.11,176.02,SUP017
+PROD061,Wellness Product 61,Health & Personal Care,Wellness,160.21,281.81,SUP007
+PROD062,Cleaning Product 62,Health & Personal Care,Cleaning,27.12,55.42,SUP023
+PROD063,Furniture Product 63,Home Goods,Furniture,83.59,119.3,SUP010
+PROD064,Footwear Product 64,Apparel,Footwear,14.99,27.15,SUP021
+PROD065,Beverages Product 65,Grocery,Beverages,171.0,216.44,SUP017
+PROD066,Men Product 66,Apparel,Men,130.46,191.15,SUP008
+PROD067,Kitchen Product 67,Home Goods,Kitchen,163.07,230.85,SUP011
+PROD068,Smart Devices Product 68,Electronics,Smart Devices,174.28,281.88,SUP018
+PROD069,Furniture Product 69,Home Goods,Furniture,234.5,323.76,SUP008
+PROD070,Mobile Accessories Product 70,Electronics,Mobile Accessories,88.56,120.25,SUP023
+PROD071,Paper Product 71,Office Supplies,Paper,231.55,482.43,SUP008
+PROD072,Mobile Accessories Product 72,Electronics,Mobile Accessories,68.2,128.01,SUP011
+PROD073,Smart Devices Product 73,Electronics,Smart Devices,205.22,364.77,SUP008
+PROD074,Snacks Product 74,Grocery,Snacks,134.76,199.41,SUP016
+PROD075,Furniture Product 75,Home Goods,Furniture,27.81,58.47,SUP005
+PROD076,Desk Accessories Product 76,Office Supplies,Desk Accessories,225.6,417.69,SUP019
+PROD077,Men Product 77,Apparel,Men,88.06,139.29,SUP016
+PROD078,Men Product 78,Apparel,Men,182.86,384.42,SUP004
+PROD079,Smart Devices Product 79,Electronics,Smart Devices,222.34,442.65,SUP014
+PROD080,Beverages Product 80,Grocery,Beverages,162.3,215.85,SUP014
+PROD081,Footwear Product 81,Apparel,Footwear,44.6,93.82,SUP002
+PROD082,Desk Accessories Product 82,Office Supplies,Desk Accessories,153.58,193.32,SUP021
+PROD083,Mobile Accessories Product 83,Electronics,Mobile Accessories,29.86,56.15,SUP013
+PROD084,Writing Product 84,Office Supplies,Writing,6.24,8.75,SUP004
+PROD085,Kitchen Product 85,Home Goods,Kitchen,139.44,265.95,SUP007
+PROD086,Wellness Product 86,Health & Personal Care,Wellness,164.73,241.01,SUP005
+PROD087,Men Product 87,Apparel,Men,179.48,264.8,SUP009
+PROD088,Men Product 88,Apparel,Men,84.72,165.98,SUP003
+PROD089,Footwear Product 89,Apparel,Footwear,164.16,337.64,SUP004
+PROD090,Smart Devices Product 90,Electronics,Smart Devices,166.12,297.34,SUP018
+PROD091,Mobile Accessories Product 91,Electronics,Mobile Accessories,27.95,44.7,SUP025
+PROD092,Kitchen Product 92,Home Goods,Kitchen,69.97,103.68,SUP014
+PROD093,Women Product 93,Apparel,Women,243.39,395.13,SUP007
+PROD094,Men Product 94,Apparel,Men,223.55,413.47,SUP006
+PROD095,Men Product 95,Apparel,Men,199.73,345.03,SUP013
+PROD096,Beverages Product 96,Grocery,Beverages,146.34,251.4,SUP010
+PROD097,Footwear Product 97,Apparel,Footwear,52.83,102.3,SUP024
+PROD098,Cleaning Product 98,Health & Personal Care,Cleaning,73.79,93.94,SUP023
+PROD099,Men Product 99,Apparel,Men,163.14,231.37,SUP007
+PROD100,Packaged Food Product 100,Grocery,Packaged Food,235.41,507.6,SUP002
