@@ -417,22 +417,27 @@ def create_fact_returns(
         if row["delay_days"] and row["delay_days"] > 0:
             base_return_probability += 0.07
 
-        # Higher-value orders have slightly higher return risk
-        if row["order_value"] > 1000:
-            base_return_probability += 0.03
-
-        if np.random.random() < base_return_probability:
+         if np.random.random() < base_return_probability:
             return_date = pd.to_datetime(row["actual_delivery_date"]) + timedelta(days=random.randint(1, 20))
 
-           if row["delay_days"] > 0:
-    reason_probabilities = [0.22, 0.25, 0.15, 0.18, 0.20]
-else:
-    reason_probabilities = [0.25, 0.10, 0.20, 0.20, 0.25]
+            if row["delay_days"] > 0:
+                reason_probabilities = [0.22, 0.25, 0.15, 0.18, 0.20]
+            else:
+                reason_probabilities = [0.25, 0.10, 0.20, 0.20, 0.25]
 
-reason = np.random.choice(
-    return_reasons,
-    p=reason_probabilities
-)
+            reason = np.random.choice(
+                return_reasons,
+                p=reason_probabilities
+            )
+
+            return_records.append({
+                "return_id": f"RET{return_id:06d}",
+                "order_id": row["order_id"],
+                "product_id": row["product_id"],
+                "return_date": return_date.date(),
+                "return_reason": reason,
+                "return_cost": round(np.random.uniform(10, 150), 2)
+            })
 
             return_records.append({
                 "return_id": f"RET{return_id:06d}",
